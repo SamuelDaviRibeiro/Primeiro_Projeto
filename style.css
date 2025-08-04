@@ -1,0 +1,17 @@
+body{
+    background-color: #1A2A80;
+}
+h1{
+    color: #FFCC00;
+    text-align: center;
+    font-size: 60px;
+}
+p{
+    color:#FFCC00;
+    text-align: center;
+    font-size: 40px;
+}
+img{
+    margin-inline-start: 660px;
+    width: 30%;
+}
